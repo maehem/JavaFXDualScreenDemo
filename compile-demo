@@ -1,0 +1,3 @@
+export PATH_TO_FX=/opt/javafx-sdk-17/lib
+javac --module-path $PATH_TO_FX -d dist --add-modules javafx.controls hellofx/HelloFXDual.java
+

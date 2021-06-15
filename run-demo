@@ -1,0 +1,1 @@
+sudo -E java -Dmonocle.platform=EGL -Dembedded=monocle -Dglass.platform=Monocle -Degl.displayid=/dev/dri/card1 -Dmonocle.egl.lib=/opt/javafx-sdk-17/lib/libgluon_drm-1.1.4.so -Dprism.verbose=true --module-path /opt/javafx-sdk-17/lib --add-modules javafx.controls -cp dist hellofx.HelloFXDual
