@@ -25,7 +25,6 @@ cd ~
 vi .bashrc
         add ==>   export ENABLE_GLUON_COMMERCIAL_EXTENSIONS=true
 
-sudo apt install libegl-mesa0 libegl1 libgbm1 libgles2 libpango1.0-0 libpangoft1.0-0
 ```
 
 
